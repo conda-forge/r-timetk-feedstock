@@ -27,7 +27,7 @@ requirements:
   host:
     - r-base
     - r-recipes >=0.1.4
-    - r-sample
+    - r-rsample
     - r-broom
     - r-dplyr >=0.7.0
     - r-ggplot2
@@ -53,7 +53,7 @@ requirements:
   run:
     - r-base
     - r-recipes >=0.1.4
-    - r-sample
+    - r-rsample
     - r-broom
     - r-dplyr >=0.7.0
     - r-ggplot2
