@@ -1,4 +1,4 @@
-{% set version = "2.2.1" %}
+{% set version = "2.3.0" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,7 +10,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/timetk_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/timetk/timetk_{{ version }}.tar.gz
-  sha256: a83a48c0988e7bae79d3c72b9636efb3b6c3b61c6ecf5b8439431818b2e10f54
+  sha256: 14247664ed23536daface07eeb749b73991398d95062667d9581c6991c4ef783
 
 build:
   merge_build_host: true  # [win]
