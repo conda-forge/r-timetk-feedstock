@@ -5,11 +5,9 @@ Home: https://github.com/business-science/timetk
 
 Package license: GPL-3.0-or-later
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-timetk-feedstock/blob/master/LICENSE.txt)
 
 Summary: Get the time series index (date or date-time component), time series signature (feature extraction of date or date-time component for time series machine learning), and time series summary (summary attributes about time series). Create future time series based on properties of existing time series index using logistic regression. Coerce between time-based tibbles ('tbl') and 'xts', 'zoo', and 'ts'. Methods discussed herein are commonplace in machine learning, and have been cited in various literature. Refer to "Calendar Effects" in papers such as Taieb, Souhaib Ben. "Machine learning strategies for multi-step-ahead time series forecasting." Universit Libre de Bruxelles, Belgium (2014): 75-86. <http://souhaib-bentaieb.com/pdf/2014_phd.pdf>.
-
-
 
 Current build status
 ====================
